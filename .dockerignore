@@ -1,5 +1,6 @@
 venv/
 .git
+.gitignore
 housing_predictor.egg-info/
 build/
 dist/
